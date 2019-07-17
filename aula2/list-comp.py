@@ -15,9 +15,9 @@ print(lanche[lanche['pao'][1]])
 
 exit()
 
-koppa1 = {'cpr':'vermelho','pontos':30}
-koppa2 = {'cpr':'verde','pontos':50}
-koppa3 = {'cpr':'azul','pontos':100}
+koppa1 = {'cor1':'vermelho','pontos':30}
+koppa2 = {'cor2':'verde','pontos':50}
+koppa3 = {'cor3':'azul','pontos':100}
 
 koppa = [koppa1,koppa2,koppa3]
 print(koppal[1]['cor'])
@@ -48,7 +48,7 @@ exit ()
 
 ##########################################
 
-koppal = {'cpr':'vermelho','pontos':30}
+koppal = {'cor':'vermelho','pontos':30}
 
 pontos = koppal ['pontos']
 # print (pontos)

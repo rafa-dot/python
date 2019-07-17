@@ -1,4 +1,4 @@
-#!/usr/bin/python3.5 
+#!/usr/bin/python3.5
 # Listas:
 
 herois = ['superman','batman','flash','mulher maravilha','robin','thor']

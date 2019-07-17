@@ -1,0 +1,502 @@
+d developer/
+   72  cd Documentos/
+   73  ls
+   74  cd python/aula1/
+   75  ls
+   76  ./
+   77  ./ola.py
+   78  cls
+   79  clear
+   80  ./ola.py
+   81  history 
+   82  ./ola.py
+   83  clear
+   84  ./ola.py
+   85  ls -l
+   86  ./ola.py
+   87  ls -l
+   88  chmod +x *.py
+   89  ls -l
+   90  ./media.py 
+   91  ./media.py
+   92  ls -l
+   93  chmod +x *.py
+   94  ls -l
+   95  chmod +x exercicios/*.py
+   96  chmod +x exercicios*.py
+   97  chmod +x exercicios * .py
+   98  chmod +x exercicios*.py
+   99  chmod +x .py
+  100  chmod +x exercicios*.py
+  101  cd ..
+  102  chmod +x exercicios*.py
+  103  chmod +x exercicios *.py
+  104  ls
+  105  cd aula1/
+  106  ls -l
+  107  ./medi
+  108  ./media.py 
+  109  chmod +x exercicios/*
+  110  cd ..
+  111  ls
+  112  cd ..
+  113  ls
+  114  cd python/
+  115  ls
+  116  cd aula1/
+  117  ls
+  118  chmod +x exercicios/*
+  119  chmod +x exercicios /*
+  120  chmod +x exercicios/*
+  121  ls
+  122  ./ola.py 
+  123  ./ola.py
+  124  ./media.py 
+  125  ./media.py
+  126  2
+  127  ./media.py
+  128  ./ola.py 
+  129  ./media.py
+  130  ls
+  131  cdmod +x *.py
+  132  chmod +x *.py
+  133  ls
+  134  ./lista.py 
+  135  ls
+  136  chmod +x *.py
+  137  ls
+  138  ./musica.py 
+  139  ./musica.py
+  140  python3
+  141  ./musica.py
+  142  herois = ['superman','batman','flash','mulher maravilha','robin','thor']
+  143  python3
+  144  ./musica.py
+  145  ip addr
+  146  ping google.com
+  147  git
+  148  man git
+  149  cd ..
+  150  git clone https://github.com/rafolive-dot/python.git
+  151  cd python
+  152  git clone https://github.com/rafolive-dot/python.git
+  153  df
+  154  cd python/
+  155  df
+  156  ls
+  157  exit
+  158  ls -l
+  159  ls 
+  160  pwd
+  161  cd Documentos/
+  162  cd python/
+  163  ls -l
+  164  mv aula1 python/
+  165  ls -l
+  166  cd python
+  167  LS -L
+  168  ls -l
+  169  cd aula1/
+  170  ls
+  171  man git-upload-pack
+  172  ls -l
+  173  exit
+  174  ls
+  175  cd Documentos/
+  176  ls
+  177  cd python/
+  178  ls
+  179  cd python/
+  180  ls
+  181  cd aula1/
+  182  ls -l
+  183  ./condi.py 
+  184  history 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ cd ..
+developer@developer:~/Documentos/python/python$ cd .
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ c d ..
+bash: c: comando não encontrado
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ cd ..
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ ls -l
+total 4
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 python
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ ./condi.py 
+bash: ./condi.py: Arquivo ou diretório não encontrado
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ cd python/aula1
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ls -l
+total 28
+-rwxr-xr-x 1 developer developer 1154 jul 16 08:42 condi.py
+drwxr-xr-x 2 developer developer 4096 jul 15 11:27 exercicios
+-rwxr-xr-x 1 developer developer 1345 jul 15 16:50 lista.py
+-rwxr-xr-x 1 developer developer  406 jul 15 15:13 media.py
+-rwxr-xr-x 1 developer developer 6804 jul 15 17:00 musica.py
+-rwxr-xr-x 1 developer developer 2137 jul 15 15:21 ola.py
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ./condi.py 
+  File "./condi.py", line 34
+    else media2 < 5:
+              ^
+SyntaxError: invalid syntax
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ./condi.py 
+  File "./condi.py", line 25
+    else media2 < 5:
+              ^
+SyntaxError: invalid syntax
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ cd ..
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ cd ..
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ ls -la
+total 12
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 .
+drwxr-xr-x 4 developer developer 4096 jul 15 09:51 ..
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 python
+developer@developer:~/Documentos/python$ cd python/
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ ls -la
+total 16
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 .
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 ..
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 aula1
+drwxr-xr-x 7 developer developer 4096 jul 15 17:24 .git
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ ls
+aula1
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ la -la
+bash: la: comando não encontrado
+developer@developer:~/Documentos/python/python$ ls -la
+total 16
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 .
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 ..
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 aula1
+drwxr-xr-x 7 developer developer 4096 jul 15 17:24 .git
+developer@developer:~/Documentos/python/python$ ./condi.py 
+bash: ./condi.py: Arquivo ou diretório não encontrado
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ ls
+aula1
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ cd aula1/
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ls -la
+total 36
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 .
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 ..
+-rwxr-xr-x 1 developer developer 1155 jul 16 08:53 condi.py
+drwxr-xr-x 2 developer developer 4096 jul 15 11:27 exercicios
+-rwxr-xr-x 1 developer developer 1345 jul 15 16:50 lista.py
+-rwxr-xr-x 1 developer developer  406 jul 15 15:13 media.py
+-rwxr-xr-x 1 developer developer 6804 jul 15 17:00 musica.py
+-rwxr-xr-x 1 developer developer 2137 jul 15 15:21 ola.py
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ./condi.py 
+  File "./condi.py", line 35
+    else media2 < 5:
+              ^
+SyntaxError: invalid syntax
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ./condi.py 
+Nome: rafael
+Nota 1: 2
+Nota 2: 2
+Nota 3: 3
+Nota 4: 5
+Aluno: rafael média 3.0
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ./condi.py 
+Nome: rafael
+Nota 1: 5
+Nota 2: 5
+Nota 3: 5
+Nota 4: 5
+Aluno: rafael média 5.0
+Exame
+Digite a nota do exame: 8
+Aprovado
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ]
+bash: ]: comando não encontrado
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ]
+bash: ]: comando não encontrado
+developer@developer:~/Documentos/python/python/aula1$ ./condi.py 
+  File "./condi.py", line 32
+    else media2 < :
+              ^
+SyntaxError: invalid syntax
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ cd ..
+developer@developer:~/Documentos/python/python$ cd ..
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ ls -la
+total 12
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 .
+drwxr-xr-x 4 developer developer 4096 jul 15 09:51 ..
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 python
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ 
+developer@developer:~/Documentos/python$ cd python/
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ ls -la
+total 16
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 .
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 ..
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 aula1
+drwxr-xr-x 7 developer developer 4096 jul 15 17:24 .git
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ git sta
+stage    stash    status   
+developer@developer:~/Documentos/python/python$ git status 
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	aula1/
+
+nothing added to commit but untracked files present (use "git add" to track)
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ git add .
+developer@developer:~/Documentos/python/python$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   aula1/condi.py
+	new file:   aula1/lista.py
+	new file:   aula1/media.py
+	new file:   aula1/musica.py
+	new file:   aula1/ola.py
+
+developer@developer:~/Documentos/python/python$ ls -la
+total 16
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 .
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 ..
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 aula1
+drwxr-xr-x 7 developer developer 4096 jul 16 08:59 .git
+developer@developer:~/Documentos/python/python$ git config --list
+user.name=leonardo.mendes@4linux.com.br
+user.email=leonardo.mendes@4linux.com.br
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/rafolive-dot/python.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+developer@developer:~/Documentos/python/python$ git config --global user.name "Rafael Cardoso"
+developer@developer:~/Documentos/python/python$ git config --global user.email "Rafaa.cardoso@gmail.com"
+developer@developer:~/Documentos/python/python$ git config --list
+user.name=Rafael Cardoso
+user.email=Rafaa.cardoso@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/rafolive-dot/python.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ ls -la
+total 16
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 .
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 ..
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 aula1
+drwxr-xr-x 7 developer developer 4096 jul 16 08:59 .git
+developer@developer:~/Documentos/python/python$ git status 
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   aula1/condi.py
+	new file:   aula1/lista.py
+	new file:   aula1/media.py
+	new file:   aula1/musica.py
+	new file:   aula1/ola.py
+
+developer@developer:~/Documentos/python/python$ git commit -m "Primeiro Commit"
+[master (root-commit) c2a9736] Primeiro Commit
+ 5 files changed, 412 insertions(+)
+ create mode 100755 aula1/condi.py
+ create mode 100755 aula1/lista.py
+ create mode 100755 aula1/media.py
+ create mode 100755 aula1/musica.py
+ create mode 100755 aula1/ola.py
+developer@developer:~/Documentos/python/python$ git push -u origin master
+Username for 'https://github.com': rafolive-dot
+Password for 'https://rafolive-dot@github.com': 
+Counting objects: 8, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 5.19 KiB | 0 bytes/s, done.
+Total 8 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/rafolive-dot/python.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+developer@developer:~/Documentos/python/python$ ls -la
+total 16
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 .
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 ..
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 aula1
+drwxr-xr-x 8 developer developer 4096 jul 16 09:07 .git
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ ls -la
+total 16
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 .
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 ..
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 aula1
+drwxr-xr-x 8 developer developer 4096 jul 16 09:07 .git
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ cd aula1/
+developer@developer:~/Documentos/python/python/aula1$ ls -la
+total 36
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 .
+drwxr-xr-x 4 developer developer 4096 jul 15 17:26 ..
+-rwxr-xr-x 1 developer developer 1146 jul 16 09:08 condi.py
+drwxr-xr-x 2 developer developer 4096 jul 15 11:27 exercicios
+-rwxr-xr-x 1 developer developer 1345 jul 15 16:50 lista.py
+-rwxr-xr-x 1 developer developer  406 jul 15 15:13 media.py
+-rwxr-xr-x 1 developer developer 6804 jul 15 17:00 musica.py
+-rwxr-xr-x 1 developer developer 2137 jul 15 15:21 ola.py
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ./condi.py 
+  File "./condi.py", line 21
+    else media2 < 
+       ^
+SyntaxError: invalid syntax
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ ./condi.py 
+  File "./condi.py", line 21
+    else media2 < 
+       ^
+SyntaxError: invalid syntax
+developer@developer:~/Documentos/python/python/aula1$ ./condi.py 
+  File "./condi.py", line 21
+    else media2 < 
+       ^
+SyntaxError: invalid syntax
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ 
+developer@developer:~/Documentos/python/python/aula1$ cd ..
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ mkdir aula2
+developer@developer:~/Documentos/python/python$ ls -la
+total 20
+drwxr-xr-x 5 developer developer 4096 jul 16 09:18 .
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 ..
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 aula1
+drwxr-xr-x 2 developer developer 4096 jul 16 09:18 aula2
+drwxr-xr-x 8 developer developer 4096 jul 16 09:07 .git
+developer@developer:~/Documentos/python/python$ which python3
+python3     python3.5   python3.5m  python3m    
+developer@developer:~/Documentos/python/python$ which python3
+/usr/bin/python3
+developer@developer:~/Documentos/python/python$ which python3
+/usr/bin/python3
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ 
+developer@developer:~/Documentos/python/python$ ls .
+aula1  aula2
+developer@developer:~/Documentos/python/python$ ls
+aula1  aula2
+developer@developer:~/Documentos/python/python$ ls -la
+total 20
+drwxr-xr-x 5 developer developer 4096 jul 16 09:18 .
+drwxr-xr-x 3 developer developer 4096 jul 15 17:26 ..
+drwxr-xr-x 3 developer developer 4096 jul 15 16:06 aula1
+drwxr-xr-x 2 developer developer 4096 jul 16 09:22 aula2
+drwxr-xr-x 8 developer developer 4096 jul 16 09:07 .git
+developer@developer:~/Documentos/python/python$ cd aula2
+developer@developer:~/Documentos/python/python/aula2$ 
+developer@developer:~/Documentos/python/python/aula2$ 
+developer@developer:~/Documentos/python/python/aula2$ 
+developer@developer:~/Documentos/python/python/aula2$ LS -LA
+bash: LS: comando não encontrado
+developer@developer:~/Documentos/python/python/aula2$ 
+developer@developer:~/Documentos/python/python/aula2$ 
+developer@developer:~/Documentos/python/python/aula2$ 
+developer@developer:~/Documentos/python/python/aula2$ ls -la
+total 12
+drwxr-xr-x 2 developer developer 4096 jul 16 09:22 .
+drwxr-xr-x 5 developer developer 4096 jul 16 09:18 ..
+-rw-r--r-- 1 developer developer   63 jul 16 09:23 palavra.py
+developer@developer:~/Documentos/python/python/aula2$ 
+developer@developer:~/Documentos/python/python/aula2$ 
+developer@developer:~/Documentos/python/python/aula2$ chmod +x *.py
+developer@developer:~/Documentos/python/python/aula2$ ./palavra.py 
+Escreva uma palavra: teste
+developer@developer:~/Documentos/python/python/aula2$ ./palavra.py 
+Escreva uma palavra: teste
+teste
+developer@developer:~/Documentos/python/python/aula2$ 
+developer@developer:~/Documentos/python/python/aula2$ 
+developer@developer:~/Documentos/python/python/aula2$ 
+
+

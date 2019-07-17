@@ -16,23 +16,22 @@ media1 = nota1+nota2+nota3+nota4
 media2 = media1 / 4
 print('Aluno: '+str(aluno)+' média '+str(media2))
 
-if media2 > 7:
+if media2 >= 7:
 	print('Aprovado')
-
-elif media2 >= 5 and media2 <= 7:
+elif media2 >= 5:
 	print('Exame')
 	nota5 = float(input('Digite a nota do exame: '))
 	media2 = (media2 + nota5) / 2
 	
-	if media2 > 5:
+	if media2 >= 5:
 		print('Aprovado')
 	else:
 		print('Reprovado')
-
-else media2 < :
+else:
 	print('Reprovado')
 
 exit()
+
 
 ########################################################
 
