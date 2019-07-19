@@ -1,0 +1,125 @@
+
+# Comandos
+################################################################################ 
+
+My SQL:
+
+apt install mysql-server mysql-client -y #INSTALANDO SQL
+apt-get update -fix-missing #usar caso de erro na instalação
+
+systemctl start mysql #INICIALIZAR O SERVIÇO
+systemctl status mysql #STATUS DO SERVIÇO
+
+mysql -u root -p #ACESSAR O SQL COMO ROOT
+
+create user batman identified by 'Gotham@123';
+
+show databases; #MOSTRAR OS DBs
+select* from herois; #selecionar tabela
+
+create database gotham; #CRIAR BANCO DE DADOS
+
+grant all privileges on gotham.* to batman@localhost identified by 'Gotham@123'; #$CONCEDER ACESSOS
+
+\q # SAIR do sql
+
+use gotham;
+
+create table viloes(id int primary key not null auto_increment , nome varchar(50), idade int); #CRIAR TABELAS
+
+desc viloes; #descrição da tabela
+
+insert into viloes(nome,idade) values ('coringa',35); #inserir valores
+
+
+delete from viloes where id=1; # deletar id 1 da tabela viloes
+
+##################Python VIENV:
+sudo apt install python3-pip -y #instalar modulo PIP virtual
+
+pip3 install virtualenv #isntalando virtual env
+
+python3 -m virtualenv venv #criar amnbiente virtual
+
+source venv/bin/activate# ativar ambiente virtual
+
+#### CONECTAR NO VIENV
+
+eveloper@developer:~/Documentos/python/python/aula5$ source venv/bin/activate
+
+(venv) developer@developer:~/Documentos/python/python/aula5$ python exe4.py
+Conectou
+
+
+#INSTALAR MODULO PARA SE COMUNICAR COM MYSQL
+pip3 install psycopg2-binary # instalar binario para se comunicar com mysql
+pip3 search install psycopg2-binary
+
+pip3 install python3-
+
+
+sudo apt install libmariadbclient-dev #instalar dependencia
+
+pip3 install mysqlclient #instalar modulo mysql
+
+
+
+########################### 
+
+######## Postgres
+
+1  apt update
+   32  apt install postgresql -y
+   33  ls
+   34  systemctl start postgresql
+   35  systemctl status postgresql
+   36  exit
+   37  su - postgres
+
+sudo su
+postgres=# create database gotham;
+postgres=# create user robin password 'gotham123';
+postgres=# grant all privileges on database gotham to robin;
+
+create user robin password 'gotham123';
+
+psql -h localhost -U robin gotham # acessar o banco gotham
+
+################################################################################
+
+###### MONGODB ######
+
+apt install mongodb -y | INSTALAR MONGODB
+
+ss -nltp |grep 27017
+
+use teste - #acessar um database
+
+ show users
+> show tables;
+> db.herois.insert()
+
+{ "_id" : 1, "nome" : "peter", "sobrenome" : "parker", "herois" : "omiranha" }
+
+
+db.herois.find({_id:1})
+{ "_id" : 1, "nome" : "peter", "sobrenome" : "parker", "herois" : "omiranha" }
+
+db.herois.remove({_id:1}) 
+
+db.herois.update({_id:2},{$set:{herois:'hulk'}}) #atualizar 
+
+db.herois.update({_id:2},{$set:{projeto:[{nome:'hulk contra o mundo',descrição:'hulk bate em todo mundo'}]}})
+
+
+db.herois.find().pretty() #printar mais bonitim
+
+
+db.herois.update({_id:2},{$push:{projeto:{nome:'ultimo tita',descrição:'hulk mata baratas'}}}) # adiciona uma informação
+
+
+db.herois.update({_id:2},{$pull:{projeto:{nome:'ultimo tita'}}}) #remover uma informação
+
+db.herois.drop() #DROPAR UM DATABASE
+
+
